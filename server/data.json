@@ -1,0 +1,53 @@
+{
+    "name": "Pratham P L",
+    "location": "Mangalore, India",
+    "email": "prathampl9@gmail.com",
+    "phone": "+91 7899578959",
+    "summary": "Highly motivated and results-driven recent graduate...",
+    "education": [
+      {
+        "institution": "Nitte Meenakshi Institute of Technology",
+        "degree": "Bachelor of Engineering in Computer Science",
+        "location": "Bangalore, India",
+        "gpa": "8.2/10",
+        "years": "2019 – 2023"
+      }
+    ],
+    "experience": [
+      {
+        "title": "Software Developer",
+        "company": "ETS Software Solutions",
+        "location": "Bangalore, India (Remote)",
+        "years": "Jan 2024 – Present",
+        "responsibilities": [
+          "Spearheaded RESTful API Development...",
+          "Optimized Database Architecture..."
+        ]
+      },
+      {
+        "title": "Full Stack Intern",
+        "company": "GEOGO",
+        "location": "Bangalore, India",
+        "years": "Nov 2021 – Jan 2022",
+        "responsibilities": [
+          "Developed a location-based service web application...",
+          "Integrated external APIs..."
+        ]
+      }
+    ],
+    "projects": [
+      {
+        "name": "Portfolio Website",
+        "description": "Engineered a responsive full-stack portfolio website...",
+        "tech": ["React", "Node.js", "Express", "MongoDB"]
+      },
+      {
+        "name": "Personal Finance Tracker",
+        "description": "Engineered a responsive personal finance tracking application...",
+        "tech": ["React", "Node.js", "MongoDB"]
+      }
+    ],
+    "skills": ["React.js", "Node.js", "MongoDB", "JavaScript"],
+    "certifications": ["The Joy of Computing using Python", "Data Processing and Visualization"]
+  }
+  
